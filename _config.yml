@@ -25,8 +25,8 @@ optional_intro_sections:
   - requirements
   - accessibility
 kind: workshop
-ukrn_email: training@ukrn.org
-ukrn_site: https://ukrn.org/
+ukrn_email: ml858@cam.ac.uk
+ukrn_site: https://mengliu.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
 pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSfmNqNZRbIIOuftOD0nXs9-rzwxlTm7SLySqXyWO20R96xXAQ/viewform?usp=pp_url&entry.2087576176=
